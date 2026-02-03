@@ -106,9 +106,3 @@ Based on observed limitations, the following enhancements are planned:
 * Hybrid and multi-stage systems are necessary for production-grade search engines.
 
 ---
-
-* Customize this analysis with **your actual metric values**
-* Shorten it if there’s a **word limit**
-* Integrate it into a **complete README.md template**
-
-Just tell me 👍
